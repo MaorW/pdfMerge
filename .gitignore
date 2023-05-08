@@ -1,0 +1,10 @@
+# venv dir
+venv/
+
+# merged-result dir
+merged-result/*
+!merged-result/.gitkeep
+
+# pdf_files dir
+pdf_files/*
+!pdf_files/.gitkeep
